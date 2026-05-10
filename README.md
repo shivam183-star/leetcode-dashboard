@@ -134,7 +134,7 @@ leetcode-dashboard/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/leetcode-dashboard.git
+git clone https://github.com/shivam183-star/leetcode-dashboard.git
 ```
 
 ---
