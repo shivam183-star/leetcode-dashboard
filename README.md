@@ -9,7 +9,7 @@ This project fetches real-time data from a public LeetCode API and presents it t
 ## 🚀 Live Demo
 
 🔗 **Streamlit App:**  
-[Add Your Streamlit App URL Here]
+https://leetcode-dashboard.streamlit.app/
 
 
 
