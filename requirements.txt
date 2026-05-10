@@ -1,0 +1,7 @@
+streamlit
+requests
+plotly
+pandas
+json
+matplotlib
+calplot==0.1.7.5
