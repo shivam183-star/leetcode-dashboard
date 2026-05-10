@@ -3,5 +3,6 @@ requests
 plotly
 pandas
 json
+numpy
 matplotlib
 calplot==0.1.7.5
