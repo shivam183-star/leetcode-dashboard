@@ -316,4 +316,5 @@ if username:
 
             st.pyplot(fig)
             st.markdown("---")
-            st.caption("Built with Streamlit and Plotly")
+            st.caption("Built with Streamlit and Plotly by Shivam Singh")
+        
